@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,Geography,Tenure,Balance,NumOfProducts,IsActiveMember,EstimatedSalary,Exited
+15634602,Female,42,France,3,60000,2,1,50000,1
+15647311,Male,35,Spain,1,0,1,1,60000,0
+15619304,Male,58,Germany,9,90000,1,0,52000,1
+15656705,Female,45,France,2,20000,2,1,62000,0
+15689323,Male,36,Germany,5,80000,2,0,70000,1
